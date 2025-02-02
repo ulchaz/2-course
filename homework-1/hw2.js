@@ -1,3 +1,7 @@
-let a = 'Брендан Эйх';
+let a = 10;
+let b = 2;
 
-alert(`Создатель языка JavaScript - ${a}`);
+alert(a + b);
+alert(a - b);
+alert(a * b);
+alert(a / b);
