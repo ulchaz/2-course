@@ -4,3 +4,5 @@ let user = {
     isAdmin: true,
 };
 user["city of residence"] = 'Москва';
+
+user.age = 27;
