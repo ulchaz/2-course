@@ -6,3 +6,4 @@ let user = {
 user["city of residence"] = 'Москва';
 
 user.age = 27;
+delete user["city of residence"];
