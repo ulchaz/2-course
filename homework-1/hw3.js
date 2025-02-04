@@ -1,5 +1,6 @@
-let c = 2;
-if (c > 0 && c < 10) {
+let d = 2;
+let e = 20;
+if (d > 100 || e > 100) {
     console.log('Верно')
 } else {
     console.log('Неверно')
