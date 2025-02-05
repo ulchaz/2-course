@@ -1,5 +1,4 @@
-let n = 1000;
-while( n >= 50){
-    console.log(n);
-    n = n / 2;
+for (let friday = 5; friday < 31; friday +=7 ) {
+    console.log(`Сегодня пятница, ${friday} число, нужно подготовить отчет`);
+    
 }
