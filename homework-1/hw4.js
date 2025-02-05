@@ -1,6 +1,6 @@
-let i = 1;
+let i = 7;
 
-while (i <=5 ){
+while (i <=22 ){
     console.log(i);
     i++;
 }
