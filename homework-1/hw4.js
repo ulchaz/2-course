@@ -1,9 +1,5 @@
-let obj = {
-    "Коля" : '200',
-    "Вася" : '300',
-    "Петя" : '400'
-}
-for (let name in obj){
-    let salary = obj[name];
-    console.log(`${name} — зарплата ${salary} долларов`)
+let n = 1000;
+while( n >= 50){
+    console.log(n);
+    n = n / 2;
 }
